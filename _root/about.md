@@ -1,6 +1,7 @@
 ---
 title : About Me
-description:
+date : '2013-08-05'
+description: 关于我
 ---
 
 #### 一个开源事业支持者
