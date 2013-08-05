@@ -1,0 +1,3 @@
+[submodule "compiled"]
+	path = compiled
+	url = ./compiled
