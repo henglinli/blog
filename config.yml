@@ -74,7 +74,7 @@ widgets :
   analytics :
     use : google
     # -- config for google --
-    tracking_id : 'UA-123-12'
+    tracking_id : 'UA-42955283-1'
 
     # -- config for getclicky  --
     # site_id :
@@ -83,7 +83,7 @@ widgets :
     use : disqus
     enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    short_name : henglinli # Change This!
 
     # -- config for livefyre --
     # site_id : 123
