@@ -25,7 +25,7 @@ categories:
 
 		$ git clone 'git://github.com/ruhoh/blog.git' 'blog' #获取代码
 		$ cd blog 
-		$ bundle install #安装以来，会安装ruhoh，建议改成淘宝的源
+		$ bundle install #安装依赖，会安装ruhoh，建议改成淘宝的源
 		# Gemfile改成 source 'http://ruby.taobao.org/'
 		$ bundle exec rackup -p 9292 #本地预览
 这样就有一个基本的博客系统了。
