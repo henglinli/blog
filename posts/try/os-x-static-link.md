@@ -7,7 +7,7 @@ tags:
 - 'static link'
 - 'C/C++'
 categories:
-- try
+- 'try'
 ---
 
 

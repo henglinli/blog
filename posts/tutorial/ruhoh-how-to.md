@@ -7,7 +7,7 @@ tags:
 - 'github'
 - 'blog'
 categories:
-- tutorial
+- 'tutorial'
 ---
 
 #### 缘由
