@@ -6,6 +6,8 @@ tags:
 - 'OS X'
 - 'static link'
 - 'C/C++'
+categories:
+- try
 ---
 
 

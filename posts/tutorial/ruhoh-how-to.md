@@ -3,9 +3,9 @@ title: '使用Ruhoh和Github搭建博客'
 date: '2013-08-05'
 description: '使用Ruhoh生成静态网页，并部署到Github Pages'
 tags:
-- ruhoh
-- github
-- blog
+- 'ruhoh'
+- 'github'
+- 'blog'
 categories:
 - tutorial
 ---

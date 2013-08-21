@@ -3,9 +3,9 @@ title: '学习libcrafter'
 date: '2013-08-15'
 description: 'libcrafter学习笔记'
 tags:
-- c++
-- libcrafter
-- network
+- 'C++'
+- 'libcrafter'
+- 'network'
 categories:
 - tutorial
 ---
