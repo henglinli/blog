@@ -24,7 +24,7 @@ description: 关于我
 - GNU/Linux, 动漫, 游戏，其他有趣的东西。
 
 #### 简历
-- 我的简历[Doc][resume-doc]、[Pdf][resume-pdf]
+- 我的简历[PDF][resume-pdf]
 
 ####联系方式
 - 李恒林 
