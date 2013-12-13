@@ -97,10 +97,18 @@ categories:
 
 ### Code
 	
-见我的Github[queue.hh][queue.hh]。
+见我的Github[queue.hh][queue_hh]。
+
+### Update
+
+2013.12.13
+由于尝试自己从头实现类似于[Boost.Intrusive][boost_intrusive]的容器太耗时，
+我尝试从[Boost.Inrusive][boost_intrusive]中提取代码，却发现[Boost.Inrusive][boost_intrusive]
+的normal_link模式下，它的hook实际上就是`平凡的(Trivial)`的，只是没有写成Trivial，为了能达到该目的，
+将`boost::intrusive::generic_hook`偏特化normal_link就行了，代码见[generic_hook.hh][generic_hook_hh]。
 
 ***
 [queue(3)]: https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man3/queue.3.html "queue(3)"
 [linux_list]: http://www.cs.fsu.edu/~baker/devices/lxr/http/source/linux/include/linux/list.h "linux list"
 [boost_intrusive]: http://www.boost.org/doc/libs/release/libs/intrusive/ "Boost.Intrusive"
-[queue.hh]: https://github.com/henglinli/TheServer/blob/master/TheServer/queue.hh "queue.hh"
+[queue_hh]: https://github.com/henglinli/TheServer/blob/master/TheServer/queue.hh "queue.hh"
